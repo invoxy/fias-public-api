@@ -44,10 +44,6 @@ pip install git+https://github.com/invoxy/fias-public-api
 
 ```
 
-```bash
-pip install fias-public-api
-```
-
 ### Зависимости
 
 | Пакет      | Версия     | Описание                         |
