@@ -288,13 +288,8 @@ results = batch_address_search(addresses_to_search, delay=0.2)
 Этот проект распространяется под лицензией MIT. См. файл [LICENSE](LICENSE) для деталей.
 
 ## 🔗 Полезные ссылки
-
 - [🌐 Официальный сайт ФИАС](https://fias.nalog.ru/)
 - [📡 Публичное API ФИАС](https://fias-public-service.nalog.ru/)
-- [📖 Документация API](https://fias.nalog.ru/Home/GetSpasSettings)
-- [🐍 Python Package Index](https://pypi.org/)
-- [📚 Документация requests](https://requests.readthedocs.io/)
-
 ## 📊 Статистика проекта
 
 ![GitHub stars](https://img.shields.io/github/stars/invoxy/fias-public-api?style=social)
