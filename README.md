@@ -40,7 +40,7 @@ if results:
 ## 📦 Установка
 
 ```bash
-pip install https://github.com/invoxy/fias-public-api
+pip install git+https://github.com/invoxy/fias-public-api
 
 ```
 
